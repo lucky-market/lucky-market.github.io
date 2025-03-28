@@ -11,9 +11,11 @@
         "limitPerSecond": 0.85
     },
     "giftCollection": {
-        "address": "EQBzjovKOzmlOj6dHykAlG5Mj5e6PWoP1Ci-PNPXZIF1h2kz",
+        "address": "0:738e8bca3b39a53a3e9d1f2900946e4c8f97ba3d6a0fd428be3cd3d764817587",
         "namePrefix": "homemadecake-"
     },
+    "vCollection": "0:18add57dfde0a9befc5f84f8e1da2b139c2ae3d4da3c7a1abc72926f974ec71c",
+    "bankAddress": "0:c138b13aad1815846b8ae1810b860d5da997f352c9bbb8e96df6dc0a4695be19",
     "holderCollections": [
         "0:663bb83d4e3699578775c692af2763f1587f7e48575274282813045434f89238"
     ],
@@ -29,7 +31,7 @@
     },
     "translates": {
         "en": {
-            "appName": "Cake Minter",
+            "appName": "Lucky AMM Cake",
             "aboutHtml": "<article><h1>Lucky Bank</h1> <p>Allow collection owners to easily integrate a lending tool exclusive to their collection's NFTs.</p><p>Krediton TMA Lending Tool (KLT) allows collection owners (CO) to easily integrate a lending tool exclusive to their collection's NFTs. Krediton seemlessly customises the KLT for a specific collection, which the CO can integrate into their existing community tools. How it works: CO creates an account on Krediton B2B platform. Using a streamlined no-code process, CO builds their own smartcontract-based KLT TMA which they integrate into their existing infrastructure. CO then replenishes their own KLT TON pool (secure by design, with NO external access to funds) from which their holders can obtain automated lending using their NFT as collateral, with a fixed term return. CO thus gains the following advantages: 1. providing holders with a useful lending service, while easily managing risk (in case of non-repayment, they recover their own NFT); 2. lending terms (loan amount, repayment deadline, interest) can take into account the collection's specifics: tier, holder's status (wealth) and any other NFT attributes. Krediton takes a small fixed per-loan fee plus a percentage of profits resulting from KLT use (interest). All other profits go directly to CO.</p></article>",
             "heroPage": {
                 "title": {
@@ -55,7 +57,7 @@
             }
         },
         "ru": {
-            "appName": "Cake Minter",
+            "appName": "Lucky AMM Cake",
             "aboutHtml": "<article><h1>Lucky Bank</h1> <p>Allow collection owners to easily integrate a lending tool exclusive to their collection's NFTs.</p><p>Krediton TMA Lending Tool (KLT) allows collection owners (CO) to easily integrate a lending tool exclusive to their collection's NFTs. Krediton seemlessly customises the KLT for a specific collection, which the CO can integrate into their existing community tools. How it works: CO creates an account on Krediton B2B platform. Using a streamlined no-code process, CO builds their own smartcontract-based KLT TMA which they integrate into their existing infrastructure. CO then replenishes their own KLT TON pool (secure by design, with NO external access to funds) from which their holders can obtain automated lending using their NFT as collateral, with a fixed term return. CO thus gains the following advantages: 1. providing holders with a useful lending service, while easily managing risk (in case of non-repayment, they recover their own NFT); 2. lending terms (loan amount, repayment deadline, interest) can take into account the collection's specifics: tier, holder's status (wealth) and any other NFT attributes. Krediton takes a small fixed per-loan fee plus a percentage of profits resulting from KLT use (interest). All other profits go directly to CO.</p></article>",
             "heroPage": {
                 "title": {
